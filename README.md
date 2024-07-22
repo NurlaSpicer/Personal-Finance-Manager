@@ -25,5 +25,3 @@ The Personal Finance Manager is a comprehensive application designed to help use
 - **APIs**: Integration with financial data APIs
 - **Deployment**: Docker, Heroku, or AWS
 
-## Project Structure
-
